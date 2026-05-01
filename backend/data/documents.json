@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Leave Policy",
+    "source": "HR Portal",
+    "content": "Employees are entitled to 20 paid leaves annually. Sick leave requires medical proof if exceeding 2 days."
+  },
+  {
+    "title": "Work From Home Policy",
+    "source": "HR Portal",
+    "content": "Employees can work from home up to 2 days per week with manager approval."
+  },
+  {
+    "title": "IT Security Guidelines",
+    "source": "IT Department",
+    "content": "Do not share passwords. Use VPN for remote access. Report phishing emails immediately."
+  },
+  {
+    "title": "Expense Reimbursement",
+    "source": "Finance",
+    "content": "All expenses must be submitted within 30 days with valid receipts."
+  },
+  {
+    "title": "Code of Conduct",
+    "source": "HR",
+    "content": "Employees must maintain professionalism, respect colleagues, and follow company ethics."
+  },
+  {
+    "title": "Laptop Usage Policy",
+    "source": "IT",
+    "content": "Company laptops must not be used for personal downloads or unauthorized software."
+  },
+  {
+    "title": "Attendance Policy",
+    "source": "HR",
+    "content": "Employees must log attendance daily in the system before 10 AM."
+  },
+  {
+    "title": "Data Privacy Policy",
+    "source": "Legal",
+    "content": "Sensitive company data must not be shared externally without approval."
+  },
+  {
+    "title": "Travel Policy",
+    "source": "Finance",
+    "content": "Travel must be pre-approved and booked via company portals."
+  },
+  {
+    "title": "Performance Review",
+    "source": "HR",
+    "content": "Performance reviews are conducted twice a year."
+  }
+]
